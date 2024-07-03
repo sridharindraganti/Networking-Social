@@ -1,4 +1,4 @@
-Vehicle Social Network: A Social Platform for License Plate Communication
+**Vehicle Social Network: A Social Platform for License Plate Communication**
 
 Abstract: - A social platform, "The Social Platform for License Plate Communication," tackles the annoyances of 
 reaching out to parked vehicle owners. It can be quite frustrating, especially if they're blocking driveways, 
