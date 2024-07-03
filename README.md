@@ -51,6 +51,7 @@ it fosters improved communication by offering a platform for respectful interact
 
 ![image](https://github.com/sridharindraganti/Networking-Social/assets/112465823/0828dc5e-afbb-4cd9-9a3e-998734131754)
 
-
+**Step-4:-** The mail is recieved successfully same like in below image.
+![image](https://github.com/sridharindraganti/Networking-Social/assets/112465823/4b498357-0945-4584-9273-44e88586fb8b)
 
 
