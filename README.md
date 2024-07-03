@@ -35,7 +35,7 @@ offers several benefits. Firstly, it provides a convenient way to contact driver
 obstruction. No more waiting around – a quick scan and a message can resolve the issue efficiently. Secondly, 
 it fosters improved communication by offering a platform for respectful interaction between parties involved. 
 
-**Step-1:-** We need to register in this website and give all the neccessary details which helps the user to communicate us. We also need to choose the contact method.
+**Step-1:-** We need to register in this website and give all the neccessary details which helps the user to communicate us. We also need to choose the contact method. These deatils will saved in our database which helps futher to contact us.
 
 ![image](https://github.com/sridharindraganti/Networking-Social/assets/112465823/35700b55-93e0-4265-a4f9-cc142578c860)
 
@@ -43,7 +43,11 @@ it fosters improved communication by offering a platform for respectful interact
 
 ![image](https://github.com/sridharindraganti/Networking-Social/assets/112465823/93239f90-e55a-4222-885f-c7a3bb3b3ac6)
 
+**Step-3:-** If the details of that vehicle owner are stored in our database then the details are displayed same like in the below image.
+
 ![image](https://github.com/sridharindraganti/Networking-Social/assets/112465823/47e67e28-2376-4cc7-bcc9-cc047f341fd4)
+
+**Step-4:-** After clicking on the contact method button then some predefiened messages are displayed like in the below image. We need to select the message which we want to send to the owner.
 
 ![image](https://github.com/sridharindraganti/Networking-Social/assets/112465823/0828dc5e-afbb-4cd9-9a3e-998734131754)
 
