@@ -1,6 +1,6 @@
-**`Vehicle Social Network: A Social Platform for License Plate Communication`**
+# Vehicle-Social-Network: A Social Platform For License Plate Communication 
 
-Abstract: - A social platform, "The Social Platform for License Plate Communication," tackles the annoyances of 
+**Abstract: -** A social platform, "The Social Platform for License Plate Communication," tackles the annoyances of 
 reaching out to parked vehicle owners. It can be quite frustrating, especially if they're blocking driveways, 
 parked illegally, or you urgently need to deliver a message. When a person is attempting to connect with the 
 vehicle owners, they must sign up on a cumbersome website with low usability. Once registered, they can 
@@ -11,7 +11,7 @@ SMS, call, or email. This platform awkwardly wastes time and increases inconveni
 making it possibly somewhat valuable for poorly managed organizations, colleges, and anyone somewhat 
 looking to inefficiently contact a parked vehicle owner. 
 
-Introduction:- This project introduces a web platform, "Social Platform for Driver Communication through License 
+**Introduction:-** This project introduces a web platform, "Social Platform for Driver Communication through License 
 Plate Recognition," designed to streamline communication between individuals and drivers of poorly parked 
 vehicles. Targeting users in organizations and colleges, the platform aims to resolve parking inconveniences 
 more efficiently. Users can register with their license plate information, scan license plates of parked vehicles, 
@@ -35,7 +35,11 @@ offers several benefits. Firstly, it provides a convenient way to contact driver
 obstruction. No more waiting around – a quick scan and a message can resolve the issue efficiently. Secondly, 
 it fosters improved communication by offering a platform for respectful interaction between parties involved. 
 
+**Step-1:-** We need to register in this website and give all the neccessary details which helps the user to communicate us. We also need to choose the contact method.
+
 ![image](https://github.com/sridharindraganti/Networking-Social/assets/112465823/35700b55-93e0-4265-a4f9-cc142578c860)
+
+**Step-2:-** Using this search page we can scan the vehicle number and search for the details.
 
 ![image](https://github.com/sridharindraganti/Networking-Social/assets/112465823/93239f90-e55a-4222-885f-c7a3bb3b3ac6)
 
